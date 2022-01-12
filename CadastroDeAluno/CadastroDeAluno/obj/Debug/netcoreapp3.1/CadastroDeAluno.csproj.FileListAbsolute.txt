@@ -1,0 +1,13 @@
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\bin\Debug\netcoreapp3.1\CadastroDeAluno.exe
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\bin\Debug\netcoreapp3.1\CadastroDeAluno.deps.json
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\bin\Debug\netcoreapp3.1\CadastroDeAluno.runtimeconfig.json
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\bin\Debug\netcoreapp3.1\CadastroDeAluno.runtimeconfig.dev.json
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\bin\Debug\netcoreapp3.1\CadastroDeAluno.dll
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\bin\Debug\netcoreapp3.1\CadastroDeAluno.pdb
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\obj\Debug\netcoreapp3.1\CadastroDeAluno.csproj.AssemblyReference.cache
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\obj\Debug\netcoreapp3.1\CadastroDeAluno.AssemblyInfoInputs.cache
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\obj\Debug\netcoreapp3.1\CadastroDeAluno.AssemblyInfo.cs
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\obj\Debug\netcoreapp3.1\CadastroDeAluno.csproj.CoreCompileInputs.cache
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\obj\Debug\netcoreapp3.1\CadastroDeAluno.dll
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\obj\Debug\netcoreapp3.1\CadastroDeAluno.pdb
+C:\workspace\VisualStudio\CadastroDeAluno\CadastroDeAluno\CadastroDeAluno\obj\Debug\netcoreapp3.1\CadastroDeAluno.genruntimeconfig.cache
